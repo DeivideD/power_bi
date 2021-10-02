@@ -11,12 +11,10 @@ https://powerbi.microsoft.com/pt-br/desktop/
  Clique no botão download, para começar a baixar o Power BI.
  ##### Selecionar o idioma português (Brasil)
 
-Após o Download, dê um duplo click no arquivo e a tela de boas-vindas será carregada.
+2. Após o Download, dê um duplo click no arquivo e a tela de boas-vindas será carregada.
 
 <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_300,h_238/https://www.cetax.com.br/blog/wp-content/uploads/2018/09/instalacao_power_bi_desktop_2.png-300x238.jpg" />
 
-1. Baixe o Power BI Desktop
-2. Clique 2 vezes no Arquivo MSI baixado
 3. Click no botão Seguinte, leia e aceite o contrato de licença.
 4. Defina o diretório de instalação do Power BI
 5. Click no botão Seguinte
