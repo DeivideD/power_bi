@@ -4,20 +4,20 @@
 1. Download Power BI Desktop
 https://powerbi.microsoft.com/pt-br/desktop/
 ###### importante saber a arquitetura do seu sistema operacional(32 ou 64 bits) 
-1. windows
+1. Windows
 Clique no botão “Iniciar”, “Configurações”, “Sistema”, “Sobre”;
 
  <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_300/https://www.cetax.com.br/blog/wp-content/uploads/2018/09/instalacao_power_bi_desktop_1-300x185.png" />
 
- clique no botão download, para começar a baixar o Power BI.
-##### Importante selecionar o indioma portugues(Brasil)
+ Clique no botão download, para começar a baixar o Power BI.
+##### Importante selecionar o idioma português(Brasil)
 
-Após o Download de um duplo click no arquivo, e a tela de boas-vindas vai ser carregada.
+Após o Download, dê um duplo click no arquivo e a tela de boas-vindas será carregada.
 
 <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_300,h_238/https://www.cetax.com.br/blog/wp-content/uploads/2018/09/instalacao_power_bi_desktop_2.png-300x238.jpg" />
 
 
-Daí começa o processo de Next -> Next -> Finish ou Seguinte -> Seguinte -> Concluir
+Em seguida começa o processo de Next -> Next -> Finish ou Seguinte -> Seguinte -> Concluir
 
 1. Baixe o Power BI Desktop
 2. Clique 2 vezes no Arquivo MSI baixado
