@@ -10,7 +10,7 @@ Nessa área você poderá observasr os relatórios já pulblicados.
 ![Alt text](./img/cce7d854-db8c-4acc-a3af-00257c0e69b7.jpeg?raw=true "Work Space")
 
 Para pulblicar um novo relátorio acesse o menu Obter Dados
-![Alt text](./img/2021-10-01_23-12.png?raw=true "Work Space")
+![Alt text](img/2021-10-01_23-12.png?raw=true "Work Space")
 
 Selecione o PBIX na opção arquivo local.
 ![Alt text](./img/2021-10-01_23-16.png?raw=true "Work Space")
