@@ -9,7 +9,7 @@ https://powerbi.microsoft.com/pt-br/desktop/
  <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_300/https://www.cetax.com.br/blog/wp-content/uploads/2018/09/instalacao_power_bi_desktop_1-300x185.png" />
 
  Clique no botão download, para começar a baixar o Power BI.
-##### Importante selecionar o idioma português(Brasil)
+ Selecionar o idioma português (Brasil)
 
 Após o Download, dê um duplo click no arquivo e a tela de boas-vindas será carregada.
 
