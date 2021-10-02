@@ -3,7 +3,7 @@
 
 1. Download Power BI Desktop
 https://powerbi.microsoft.com/pt-br/desktop/
-###### importante saber a arquitetura do seu sistema operacional(32 ou 64 bits) 
+###### Importante saber a arquitetura do seu sistema operacional(32 ou 64 bits) 
 1. Windows
 Clique no botão “Iniciar”, “Configurações”, “Sistema”, “Sobre”;
 
