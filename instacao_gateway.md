@@ -53,7 +53,7 @@
 <br /><br />
 ![Alt text](./img/Gateway-11.png?raw=true "Work Space")
 #### O Gateway foi instalado e já está online. 
-lembrando que para estabelecer a comunicação o gateway tem que esta em execução
+obs: para estabelecer a comunicação do gateway com o power bi web o mesmo tem que esta em execução.
 #### O próximo passo será configurá-lo no Power BI Web.
 <br /><br />
 ![Alt text](./img/Gateway-12.png?raw=true "Work Space")
